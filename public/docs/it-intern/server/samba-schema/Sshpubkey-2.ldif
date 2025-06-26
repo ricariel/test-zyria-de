@@ -1,6 +1,0 @@
-dn: CN=User,CN=Schema,CN=Configuration,DC=ad,DC=zyria,DC=de
-changetype: modify
-replace: auxiliaryClass
-auxiliaryClass: ldapPublicKey
-auxiliaryClass: posixAccount
-auxiliaryClass: shadowAccount
