@@ -1,0 +1,89 @@
+name: Publish Site
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # CHEKCOUT REPOSITORY
+      - uses: https://github.com/actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - uses: actions/setup-go@d35c59abb061a4a6fb18e82ac0862c26744d6ab5 # v5
+        with:
+          go-version: 'stable'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Cache Hugo
+        uses: actions/cache@5a3ec84eff668545956fd18022155c47e93e2684 # v4
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          # The action defaults to search for the dependency file (package-lock.json,
+          # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its
+          # hash as a part of the cache key.
+          # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
+          cache-dependency-path: '**/package-lock.json'
+
+      - run: npm ci
+
+      #- run: npm install postcss postcss-cli @fullhuman/postcss-purgecss --save
+
+      - name: Checkout target repo
+        uses: https://github.com/actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          repository: ${{ env.GITHUB_REPOSITORY }}
+          github-server-url: ${{ env. GITHUB_SERVER_URL }}
+          token: ${{ secrets.ZYRIA_TOKEN }}
+          path: public
+          ref: 'pages'
+          submodules: true
+          fetch-depth: 0
+
+      - name: "Cleanup repo"
+        run: |
+          echo "rm -rf public/*"
+          rm -rf public/*
+
+      - name: Build Site
+        env:
+          TZ: 'Europe/Berlin'
+          HUGO_ENVIRONMENT: production
+        run: |
+          echo "hugo --minify --gc --environment production"
+          hugo --minify --gc --environment production
+
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git -C public diff --quiet . || echo "::set-output name=changed::true"
+
+      - name: Upload
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          echo "Doing Upload"
+          git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git -C public add .
+          git -C public commit -a -m "CI - ${{ env.GITHUB_RUN_NUMBER }}"
+          git -C public push
+          echo "Upload done"
