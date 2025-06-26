@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eine (scheinbar) leere Homepage on Zyria</title><link>/</link><description>Recent content in Eine (scheinbar) leere Homepage on Zyria</description><generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>fabrice@zyria.de (Fabrice Kirchner)</managingEditor><webMaster>fabrice@zyria.de (Fabrice Kirchner)</webMaster><copyright>&amp;copy; 2003 - 2025 Fabrice Kirchner</copyright><lastBuildDate>Fri, 21 Jul 2023 14:38:37 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Über mich</title><link>/about/</link><pubDate>Mon, 24 Jul 2023 17:18:44 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/about/</guid><description>&lt;h2 class="relative group">Fabrice Kirchner
+&lt;div id="fabrice-kirchner" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#fabrice-kirchner" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>geboren, aufgewachsen und sozialisiert in Berlin&lt;/li>
+&lt;li>Abstecher nach Bayern&lt;/li>
+&lt;li>Wohnhaft auf einem Vulkan in Hessen&lt;/li>
+&lt;/ul>
+&lt;p>Ausbildung:&lt;/p>
+&lt;ul>
+&lt;li>Programmieren für Spiele&lt;/li>
+&lt;li>Selfhosting&lt;/li>
+&lt;li>Selbstständigkeit&lt;/li>
+&lt;li>Studium&lt;/li>
+&lt;li>Bücher, Internet, Manpages, ausprobieren&lt;/li>
+&lt;li>immer neugierig und lernwillig&lt;/li>
+&lt;/ul>
+&lt;p>Interessen:&lt;/p>
+&lt;ul>
+&lt;li>Linux&lt;/li>
+&lt;li>Apple&lt;/li>
+&lt;li>OpenSource&lt;/li>
+&lt;li>Selfhosting&lt;/li>
+&lt;li>Heimautomatisierung&lt;/li>
+&lt;li>Cloud Free&lt;/li>
+&lt;li>Ingress&lt;/li>
+&lt;li>Strommanagement (PV)&lt;/li>
+&lt;li>Wandern&lt;/li>
+&lt;li>Radfahren&lt;/li>
+&lt;li>Wissen an Kind weitergeben&lt;/li>
+&lt;/ul>
+&lt;p>Beruflich betreu ich die IT in einem mittelständischen Unternehmen.&lt;/p></description></item><item><title>Datenschutzerklärung</title><link>/datenschutz/</link><pubDate>Fri, 21 Jul 2023 15:17:40 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/datenschutz/</guid><description>&lt;h2 class="relative group">Einleitung
+&lt;div id="einleitung" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#einleitung" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche
+Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“
+bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die
+Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen
+personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als
+auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie
+innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile
+(nachfolgend zusammenfassend bezeichnet als &amp;ldquo;Onlineangebot“).&lt;/p></description></item><item><title>Impressum</title><link>/impressum/</link><pubDate>Fri, 21 Jul 2023 14:41:15 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/impressum/</guid><description>&lt;h2 class="relative group">Diensteanbieter
+&lt;div id="diensteanbieter" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#diensteanbieter" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Fabrice Kirchner
+Haingasse 3
+35287 Amöneburg&lt;/p>
+&lt;h2 class="relative group">Kontaktmöglichkeiten
+&lt;div id="kontaktmöglichkeiten" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#kontaktm%c3%b6glichkeiten" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>E-Mail-Adresse:
+web(at)zyria.de
+Telefon:
+0160 5513991&lt;/p>
+&lt;p>Mastodon:
+&lt;a
+href="https://kirchner.social/@fabrice"
+target="_blank"
+>fabrice&lt;/a>
+&lt;/p>
+&lt;img src="/qr_30e536884bbd0a86.png" width="154" height="154" alt="QR Code der vCard von Fabrice Kirchner">
+&lt;p>&lt;a
+href="https://datenschutz-generator.de/"title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken."
+target="_blank"
+>Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke&lt;/a>
+&lt;/p></description></item><item><title>Logins</title><link>/docs/it-intern/server/login/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/login/</guid><description>&lt;p>Alle Zugangsdaten sind entweder in der Persönlichen Keepass Datendank (für
+personalisierte Logindaten) oder in der IT Datenbank. Der Login auf die Server
+geschieht über SSH Schlüssel. Ein Login mit dem Passwort ist nicht vorgesehen.&lt;/p>
+&lt;p>Für den externen Zugriff ist der Login über &lt;a
+href="https://vpn.zyria.de"
+target="_blank"
+>VPN&lt;/a>
+oder einem Bastion Host
+&lt;a
+href="mailto:bastion@vpn.zyria.de">bastion@vpn.zyria.de&lt;/a>
+:3022 möglich. &lt;/p>
+&lt;p>Generell sollte jedoch ein Login auf die Server nur zum Suchen von Fehlern
+stattfinden. Die Verwaltung erfolgt ausschliesslich über Ansible. Jede händisch
+durchgeführte Änderung muss im Nachhinein in Ansible eingepflegt und getestet
+werden.&lt;/p></description></item><item><title>Server-,Diensteverwaltung</title><link>/docs/it-intern/server/verwaltung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/verwaltung/</guid><description>&lt;p>Wir verwenden zur generellen Verwaltung von Servern Ansible. Für manche Dienste
+ist es jedoch notwendig oder praktikabler dies über vorhandene Portale zu
+realisieren.&lt;/p>
+&lt;h2 class="relative group">Core-Networks (DNS)
+&lt;div id="core-networks-dns" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#core-networks-dns" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Unsere DNS Server werden bei &lt;a
+href="https://www.core-networks.de"
+target="_blank"
+>Core-Networks&lt;/a>
+gehostet. In deren &lt;a
+href="https://iface.core-networks.de"
+target="_blank"
+>Webinterface&lt;/a>
+lassen sich
+alle relevanten Änderungen durchführen.&lt;/p></description></item><item><title>Hetzner Server</title><link>/docs/it-intern/sammelbecken/hetzner/</link><pubDate>Thu, 19 Oct 2023 13:28:04 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/sammelbecken/hetzner/</guid><description>&lt;h2 class="relative group">Server bei Hetzner
+&lt;div id="server-bei-hetzner" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#server-bei-hetzner" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Hardware
+&lt;div id="hardware" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#hardware" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Aktuell sind alle Server bei Hetzner &lt;a
+href="https://www.hetzner.com/de/dedicated-rootserver/ax101"
+target="_blank"
+>AX101&lt;/a>
+Server.
+Die Server sind Ipv6 only bestellt und beziehen eine IPv4 aus einem &lt;a
+href="https://docs.hetzner.com/de/robot/dedicated-server/network/vswitch/"
+target="_blank"
+>Hetzner vSwitch&lt;/a>
+.&lt;/p></description></item><item><title>Solaranlage</title><link>/posts/solar/</link><pubDate>Fri, 22 Mar 2024 10:12:47 +0100</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/posts/solar/</guid><description>&lt;h2 class="relative group">Übersicht über unsere Solaranlage mit Komponenten
+&lt;div id="übersicht-über-unsere-solaranlage-mit-komponenten" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%c3%bcbersicht-%c3%bcber-unsere-solaranlage-mit-komponenten" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Als Netto mit einem Solarkraftwerk in Selbstmontage geworben hat und unser Stromanbieter schon wieder eine Preiserhöhung ins Haus flatter ließ, war es um mich passiert. Es musste etwas passieren.&lt;/p>
+&lt;p>Zu Beginn meiner Reise habe ich mich für ein 830KWp Kraftwerk mit Deye Wechselrichter entschieden.&lt;/p></description></item><item><title>Linksammlung rund um Strom</title><link>/posts/strom/</link><pubDate>Fri, 08 Mar 2024 12:52:37 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/posts/strom/</guid><description>&lt;h2 class="relative group">Hichi IR und Home Assistant
+&lt;div id="hichi-ir-und-home-assistant" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#hichi-ir-und-home-assistant" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://ottelo.jimdofree.com/stromz%c3%a4hler-auslesen-tasmota/"
+target="_blank"
+>Stromzähler mit einem ESP8266 / ESP32 mit Tasmota auslesen und darstellen&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Solarflow Hoymiles Homeassistant
+&lt;div id="solarflow-hoymiles-homeassistant" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#solarflow-hoymiles-homeassistant" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/z-master42/solarflow/tree/main"
+target="_blank"
+>Git Repo mit nützlichen Infos&lt;/a>
+&lt;/p></description></item><item><title>Erste Hilfe</title><link>/docs/it-support/erste_hilfe/</link><pubDate>Thu, 19 Oct 2023 13:28:04 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-support/erste_hilfe/</guid><description>&lt;h2 class="relative group">Erster Schritt
+&lt;div id="erster-schritt" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#erster-schritt" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Läuft das Gerät?&lt;/li>
+&lt;li>Hast du das Gerät einmal neu gestartet? Abmelden und anmelden reicht nicht
+aus!&lt;/li>
+&lt;li>Sind alle Kabel angeschlossen und richtig eingesteckt?&lt;/li>
+&lt;li>Ist der Bildschirm angeschaltet?&lt;/li>
+&lt;li>Was hast du getan, bevor das Gerät nicht mehr ging?&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Zweiter Schritt
+&lt;div id="zweiter-schritt" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zweiter-schritt" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a
+href="https://status.zyria.com/status/index"
+target="_blank"
+>Statusseite checken&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Dritter Schritt
+&lt;div id="dritter-schritt" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dritter-schritt" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Neustart des Rechners == (nach jeder Änderung!) ==&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Vierter Schritt
+&lt;div id="vierter-schritt" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#vierter-schritt" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Evtl. ausstehende Updates ausführen&lt;/li>
+&lt;/ul></description></item><item><title>abe</title><link>/docs/it-intern/server/physische-server/abe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/abe/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Virtualisierungshost&lt;/p>
+&lt;h2 class="relative group">Zusätzlich installierte Software
+&lt;div id="zusätzlich-installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zus%c3%a4tzlich-installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Setup mit Ansible
+&lt;div id="setup-mit-ansible" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-mit-ansible" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nachdem ein Server das erste mal gestartet wurde und der Storage wie auch das remote unlock konfiguriert wurde, übernimmt Ansible die volle Kontrolle.&lt;/p></description></item><item><title>Addc</title><link>/docs/it-intern/server/vms/addc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/vms/addc/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Samba Active Directory Domain Controller und Fileserver&lt;/p>
+&lt;h2 class="relative group">Installierte Software
+&lt;div id="installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Samba-AD-DC&lt;/li>
+&lt;/ul></description></item><item><title>Ansible setup</title><link>/docs/it-intern/server/physische-server/ansible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/ansible/</guid><description>&lt;h2 class="relative group">Setup mit Ansible
+&lt;div id="setup-mit-ansible" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-mit-ansible" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nachdem ein Server das erste mal gestartet wurde und der Storage wie auch das remote unlock konfiguriert wurde, übernimmt Ansible die volle Kontrolle.&lt;/p></description></item><item><title>Dev</title><link>/docs/it-intern/server/vms/dev/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/vms/dev/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Host für Podman Container.&lt;/p>
+&lt;h2 class="relative group">Installierte Software
+&lt;div id="installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>cockpit&lt;/li>
+&lt;li>podman&lt;/li>
+&lt;li>k3s&lt;/li>
+&lt;/ul></description></item><item><title>Dmarc-Report</title><link>/docs/it-intern/services/dmarc-report/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/dmarc-report/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/gutmensch/dmarc-report"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/gutmensch/docker-dmarc-report"
+target="_blank"
+>Github&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/gutmensch/docker-dmarc-report"
+target="_blank"
+>Hersteller&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Analysiert Dmarc Reports, welche uns zugesendet werden. Aufbereitung über ein
+Webinterface.&lt;/p></description></item><item><title>Docs</title><link>/docs/it-intern/services/docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/docs/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/nginx"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://www.casa-due-pur.de/git/fabrice.kirchner/doc-site.git"
+target="_blank"
+>Seitenquelltext&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://www.casa-due-pur.de/git/fabrice.kirchner/doc-site-html.git"
+target="_blank"
+>Seite&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/nginx-docker.git"
+target="_blank"
+>Container&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://docs.nginx.com"
+target="_blank"
+>Nginx&lt;/a>
+&lt;/p></description></item><item><title>Dovecot</title><link>/docs/it-intern/services/mailstack/dovecot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/mailstack/dovecot/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/postfix"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/postfix-docker.git"
+target="_blank"
+>Repo&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dovecot fungiert in diesem Setup als MDA, Sieve und IMAP Server.&lt;/p></description></item><item><title>Forgejo</title><link>/docs/it-intern/services/forgejo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/forgejo/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://codeberg.org/forgejo/-/packages/container/forgejo"
+target="_blank"
+>Codeberg&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://codeberg.org/forgejo/forgejo"
+target="_blank"
+>Codeberg&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://forgejo.org/docs/latest/"
+target="_blank"
+>Hersteller&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Github/Gitlab ähnliches Werkzeug und Fork von Gitea. Hier liegen alle
+Repositories des Unternehmens und von hier greifen andere Werkzeuge auf die
+Repositories zu.&lt;/p></description></item><item><title>Hardware</title><link>/posts/hardware/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/posts/hardware/</guid><description>&lt;h2 class="relative group">Netzwerk
+&lt;div id="netzwerk" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#netzwerk" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Fritzbox 7590&lt;/li>
+&lt;li>Unifi US 8 PoE 150W (2x)&lt;/li>
+&lt;li>Unifi Nano HD (2x)&lt;/li>
+&lt;li>Unifi U6 Pro&lt;/li>
+&lt;/ul></description></item><item><title>Hedgedoc</title><link>/docs/it-intern/services/hedgedoc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/hedgedoc/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://quay.io/repository/hedgedoc/hedgedoc"
+target="_blank"
+>Quay&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://hub.docker.com/_/postgres"
+target="_blank"
+>Docker Hub Datenbank&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/hedgedoc/container"
+target="_blank"
+>Github&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/hedgedoc/container/blob/master/README.md"
+target="_blank"
+>Hersteller Container&lt;/a>
+&lt;/p></description></item><item><title>Hetzner Server installieren</title><link>/docs/it-intern/server/physische-server/hetzner_install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/hetzner_install/</guid><description>&lt;h2 class="relative group">&lt;a
+href="https://robot.hetzner.com/order"
+target="_blank"
+>Bestellung&lt;/a>
+von Servern
+&lt;div id="bestellung-von-servern" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#bestellung-von-servern" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>IPv4 Option. Nach der Installation wird diese direkt gekündigt. Die IPv4 Adresse bekommt der Server später über den &lt;a
+href="https://robot.hetzner.com/vswitch/index"
+target="_blank"
+>Vswitch&lt;/a>
+.&lt;/li>
+&lt;li>Server werden immer mit Rescue System bestellt. Wir installieren unsere Maschinen selbst.&lt;/li>
+&lt;li>Bei der Bestellung unbedingt einen &lt;a
+href="https://robot.hetzner.com/key/index"
+target="_blank"
+>SSH Key hinterlegen&lt;/a>
+.&lt;/li>
+&lt;li>&lt;a
+href="https://docs.hetzner.com/de/general/others/order-processing/"
+target="_blank"
+>Status&lt;/a>
+prüfen und Puffer von etwa acht Stunden einplanen. (Lieber einen Tag zu früh bezahlen als ohne Server sein)&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Nach der Bestellung
+&lt;div id="nach-der-bestellung" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#nach-der-bestellung" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Alle notwendigen Informationen werden uns Email zugesandt.&lt;/li>
+&lt;li>Prüfe den Fingerprint des Public Keys in der Email. Sollte der Key nicht stimmen, starte den Server erneut und mit korrekten Schlüssel in das &lt;a
+href="https://robot.hetzner.com/server"
+target="_blank"
+>Rescue System&lt;/a>
+.&lt;/li>
+&lt;li>Prüfe beim Einloggen den Host-Key Fingerprint. Sollte dieser nicht korrekt sein, wende dich an den Hetzner Support&lt;/li>
+&lt;li>Hetzner überprüft seine Hardware vor der Auslieferung. Sollte etwas auffällig sein, Server reklamieren. So der Server bereits eine längere Laufzeit hinter sich hat, die Lebensdauer der SSD überprüfen und gegebenenfalls tauschen lassen.&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Installation
+&lt;div id="installation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>Git auf dem Server installieren&lt;/li>
+&lt;li>&lt;a
+href="https://www.casa-due-pur.de/git/fabrice.kirchner/hetzner-install.git"
+target="_blank"
+>Repository&lt;/a>
+holen&lt;/li>
+&lt;li>Daten beschaffen:&lt;/li>
+&lt;/ol>
+&lt;p>a. FQDN = überlege einen passenden Namen für die Maschine.
+a. CRYPT_PASS = lass dir ein sicheres Passwort in deinem Passwortgenerator
+generieren.
+a. IPV4 = Die Adresse aus der Auslieferungsmail von Hetzner&lt;/p></description></item><item><title>lisa</title><link>/docs/it-intern/server/physische-server/lisa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/lisa/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Virtualisierungshost&lt;/p>
+&lt;h2 class="relative group">Zusätzlich installierte Software
+&lt;div id="zusätzlich-installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zus%c3%a4tzlich-installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Setup mit Ansible
+&lt;div id="setup-mit-ansible" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-mit-ansible" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nachdem ein Server das erste mal gestartet wurde und der Storage wie auch das remote unlock konfiguriert wurde, übernimmt Ansible die volle Kontrolle.&lt;/p></description></item><item><title>Maintenance Page</title><link>/docs/it-intern/services/maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/maintenance/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/maintenance-page"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/maintenance-page-docker.git"
+target="_blank"
+>Container&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://www.casa-due-pur.de/git/fabrice.kirchner/maintenance-page.git"
+target="_blank"
+>Seitenquelltext&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://www.casa-due-pur.de/git/fabrice.kirchner/maintenance-page-html.git"
+target="_blank"
+>Seitenhtml&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Stellt eine Wartunsseite bereit, wenn einer der Shops nicht erreichbar ist.&lt;/p></description></item><item><title>marge</title><link>/docs/it-intern/server/physische-server/marge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/marge/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Virtualisierungshost&lt;/p>
+&lt;h2 class="relative group">Zusätzlich installierte Software
+&lt;div id="zusätzlich-installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zus%c3%a4tzlich-installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Setup mit Ansible
+&lt;div id="setup-mit-ansible" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-mit-ansible" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nachdem ein Server das erste mal gestartet wurde und der Storage wie auch das remote unlock konfiguriert wurde, übernimmt Ansible die volle Kontrolle.&lt;/p></description></item><item><title>moe</title><link>/docs/it-intern/server/physische-server/moe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/moe/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Virtualisierungshost&lt;/p>
+&lt;h2 class="relative group">Zusätzlich installierte Software
+&lt;div id="zusätzlich-installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zus%c3%a4tzlich-installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Setup mit Ansible
+&lt;div id="setup-mit-ansible" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-mit-ansible" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nachdem ein Server das erste mal gestartet wurde und der Storage wie auch das remote unlock konfiguriert wurde, übernimmt Ansible die volle Kontrolle.&lt;/p></description></item><item><title>MTA Postfix</title><link>/docs/it-intern/services/mailstack/postfix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/mailstack/postfix/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/postfix"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/postfix-docker.git"
+target="_blank"
+>Repo&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Die Postfix Konfiguration kann über Dateien oder Umgebungsvariablen erfolgen.
+Ein Set an vordefinierten Variablen lässt sich im &lt;a
+href="https://git.zyria.de/pyrox/docker-compose-files/raw/branch/master/mailstack.yml"
+target="_blank"
+>Compose File&lt;/a>
+finden.&lt;/p></description></item><item><title>Mta-sts</title><link>/docs/it-intern/services/mta-sts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/mta-sts/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/nginx"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/nginx-docker.git"
+target="_blank"
+>Container&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://docs.nginx.com"
+target="_blank"
+>Nginx&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Dieser Service stellt MTA-STS für Firmendomains bereit und ist öffentlich
+erreichbar.&lt;/p></description></item><item><title>ned</title><link>/docs/it-intern/server/physische-server/ned/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/physische-server/ned/</guid><description>&lt;h2 class="relative group">Primärfunktion
+&lt;div id="primärfunktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#prim%c3%a4rfunktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Virtualisierungshost&lt;/p>
+&lt;h2 class="relative group">Zusätzlich installierte Software
+&lt;div id="zusätzlich-installierte-software" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zus%c3%a4tzlich-installierte-software" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Setup mit Ansible
+&lt;div id="setup-mit-ansible" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#setup-mit-ansible" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Nachdem ein Server das erste mal gestartet wurde und der Storage wie auch das remote unlock konfiguriert wurde, übernimmt Ansible die volle Kontrolle.&lt;/p></description></item><item><title>Passwörter</title><link>/docs/it-support/passwords/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-support/passwords/</guid><description>&lt;h2 class="relative group">Was wir nicht tun
+&lt;div id="was-wir-nicht-tun" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#was-wir-nicht-tun" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Passwörter werden nicht im Browser oder in Dokumenten z.B. Text,Word,Excel gesichert.&lt;/li>
+&lt;li>Passwörter werden niemals durch Mitarbeiter verschickt. Nicht per Email, Telefon, SMS etc. Eine Ausnahme bildet die IT, welche im Ausnahmefall nicht persönlich vor Ort sein kann und selbstständig dafür sorgt, dass die Übertragung sicher ist. Für die Übertragung sind unten beschriebene Datenbanken gedacht. Hat ein Mitarbeiter keinen Zugriff auf eine Datenbank und benötigt ein Kennwort, bitte die IT kontaktieren.&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Wie wir mit Kennworten umehen
+&lt;div id="wie-wir-mit-kennworten-umehen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#wie-wir-mit-kennworten-umehen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Wir benutzen einen dezentralen Passwortmanager (unter Windows Keepassxc), welcher auf allen Rechnern installiert ist. Dieser ermöglicht das sichere Speichern von sensiblen Daten und ist universell im ganzen Unternehmen einsetzbar.&lt;/li>
+&lt;li>Passwörter werden auch für den Transport von A nach B immer in einer Datenbank gesichert. Das Kennwort für diese Datenbank kann bei persönlichen Datenbanken selbst vergeben werden. Bei gemeinsam genutzen Datenbanken ist die IT Ansprechpartner für die Verwaltung der Kennwörter.&lt;/li>
+&lt;li>Der Ablageort für gemeinsam genutze Kennwörter ist
+&lt;blockquote>
+&lt;p>Y:\Zugangsdaten&lt;/p></description></item><item><title>Pihole</title><link>/docs/it-intern/services/pihole/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/pihole/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/pihole/pihole"
+target="_blank"
+>Docker Hub Pihole&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/cn2pihole"
+target="_blank"
+>Docker Hub cn2pihole&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/pi-hole/docker-pi-hole"
+target="_blank"
+>Github&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/core-networks2pihole-docker"
+target="_blank"
+>Hersteller core-networks to pihole&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/pi-hole/docker-pi-hole"
+target="_blank"
+>Hersteller Container&lt;/a>
+&lt;/p></description></item><item><title>Roundcube Webmail</title><link>/docs/it-intern/services/roundcube/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/roundcube/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/roundcube/roundcubemail/"
+target="_blank"
+>Docker Hub Roundcube&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://hub.docker.com/_/mariadb"
+target="_blank"
+>Docker Hub Mariadb&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/roundcube/roundcubemail-docker/tree/master/examples"
+target="_blank"
+>Github Container&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://github.com/roundcube/roundcubemail"
+target="_blank"
+>Github Software&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://github.com/MariaDB/mariadb-docker"
+target="_blank"
+>Github Mariadb&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://roundcube.net/support/"
+target="_blank"
+>Hersteller&lt;/a>
+&lt;/p></description></item><item><title>Samba Schema</title><link>/docs/it-intern/server/samba-schema/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/server/samba-schema/</guid><description>&lt;h2 class="relative group">ms-MCS-AdmPwd und ms-MCS-AdmPwdExpirationTime
+&lt;div id="ms-mcs-admpwd-und-ms-mcs-admpwdexpirationtime" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#ms-mcs-admpwd-und-ms-mcs-admpwdexpirationtime" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-LDAP" data-lang="LDAP">dn: CN=ms-MCS-AdmPwd,CN=Schema,cn=configuration,DC=ad,DC=zyria,DC=de
+changetype: add
+objectClass: attributeSchema
+ldapDisplayName: ms-MCS-AdmPwd
+adminDisplayName: ms-MCS-AdmPwd
+adminDescription: Stores password of local Administrator account on workstation
+attributeId: 1.2.840.113556.1.8000.2554.50051.45980.28112.18903.35903.6685103.1224907.2.1
+attributeSyntax: 2.5.5.5
+omSyntax: 19
+isSingleValued: TRUE
+systemOnly: FALSE
+searchFlags: 648
+isMemberOfPartialAttributeSet: FALSE
+showInAdvancedViewOnly: FALSE
+dn: CN=ms-MCS-AdmPwdExpirationTime,CN=Schema,cn=configuration,DC=ad,DC=zyria,DC=de
+changetype: add
+objectClass: attributeSchema
+ldapDisplayName: ms-MCS-AdmPwdExpirationTime
+adminDisplayName: ms-MCS-AdmPwdExpirationTime
+adminDescription: Stores timestamp of last password change
+attributeId: 1.2.840.113556.1.8000.2554.50051.45980.28112.18903.35903.6685103.1224907.2.2
+attributeSyntax: 2.5.5.16
+omSyntax: 65
+isSingleValued: TRUE
+systemOnly: FALSE
+searchFlags: 0
+isMemberOfPartialAttributeSet: FALSE
+showInAdvancedViewOnly: FALSE
+&lt;/code>&lt;/pre>
+&lt;h2 class="relative group">modify computer
+&lt;div id="modify-computer" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#modify-computer" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-LDAP" data-lang="LDAP">dn: CN=computer,CN=Schema,cn=configuration,DC=ad,DC=zyria,DC=de
+changetype: Modify
+add: mayContain
+mayContain: ms-MCS-AdmPwd
+mayContain: ms-MCS-AdmPwdExpirationTime
+&lt;/code>&lt;/pre>
+&lt;h2 class="relative group">ldapPublicKey
+&lt;div id="ldappublickey" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#ldappublickey" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-LDAP" data-lang="LDAP">#dn: CN=sshPublicKey,CN=Schema,CN=Configuration,DC=ad,DC=zyria,DC=de
+#changetype: add
+#objectClass: top
+#objectClass: attributeSchema
+#attributeID: 1.3.6.1.4.1.24552.500.1.1.1.13
+#cn: sshPublicKey
+#name: sshPublicKey
+#lDAPDisplayName: sshPublicKey
+#description: MANDATORY: OpenSSH Public key
+#attributeSyntax: 2.5.5.10
+#oMSyntax: 4
+#isSingleValued: FALSE
+#searchFlags: 8
+dn: CN=ldapPublicKey,CN=Schema,CN=Configuration,DC=ad,DC=zyria,DC=de
+changetype: add
+objectClass: top
+objectClass: classSchema
+governsID: 1.3.6.1.4.1.24552.500.1.1.2.0
+cn: ldapPublicKey
+name: ldapPublicKey
+description: MANDATORY: OpenSSH LPK objectclass
+lDAPDisplayName: ldapPublicKey
+subClassOf: top
+objectClassCategory: 3
+defaultObjectCategory: CN=ldapPublicKey,CN=Schema,CN=Configuration,DC=ad,DC=zyria,DC=de
+mayContain: sshPublicKey
+&lt;/code>&lt;/pre>
+&lt;h2 class="relative group">modify user
+&lt;div id="modify-user" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#modify-user" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;pre tabindex="0">&lt;code class="language-LDAP" data-lang="LDAP">dn: CN=User,CN=Schema,CN=Configuration,DC=ad,DC=zyria,DC=de
+changetype: modify
+replace: auxiliaryClass
+auxiliaryClass: ldapPublicKey
+auxiliaryClass: posixAccount
+auxiliaryClass: shadowAccount
+&lt;/code>&lt;/pre></description></item><item><title>Setup Windows Client</title><link>/docs/it-intern/client/setup_windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/client/setup_windows/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>Windows Rechner mit Professional Version kaufen (Aufgeräumt wird über Ansible)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Windows Rechner vollständig laden&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Beim ersten Anschalten lokalen Benutzer oder Domäne auswählen.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lokaler Benutzer ist der Hauptnutzer des Gerätes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kennwort wird in der IT Datenbank gesichert&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alle Datensammelei während des Setups verbieten&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rechner in Domäne aufnehmen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ansible Setup Script starten (liegt im ansible-main Repo unter files)&lt;/p></description></item><item><title>Snippets</title><link>/docs/it-intern/sammelbecken/snippets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/sammelbecken/snippets/</guid><description>&lt;h2 class="relative group">Snippets
+&lt;div id="snippets" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#snippets" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Leeren branch in git erstellen
+&lt;div id="leeren-branch-in-git-erstellen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#leeren-branch-in-git-erstellen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git switch --orphan pages
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit --allow-empty -m &lt;span class="s2">&amp;#34;Initial commit on orphan branch&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push -u origin pages
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 class="relative group">Zone aus Samba extrahieren
+&lt;div id="zone-aus-samba-extrahieren" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zone-aus-samba-extrahieren" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#!/bin/sh
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Extract DNS zone from Samba4 native DNS using samba-tool&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Prerequistes:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># samba krb5-workstation&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">SAMBA_TOOL&lt;/span>&lt;span class="o">=&lt;/span>samba-tool
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#kinit Administrator&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#trap &amp;#34;kdestroy; rm -f $TMPFILE&amp;#34; 0 1 2 15&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#klist&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## -k=yes doesn&amp;#39;t work...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## Using --password isn&amp;#39;t secure.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">USER&lt;/span>&lt;span class="o">=&lt;/span>Administrator
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> -n &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$USER&lt;/span>&lt;span class="s2"> password:&amp;#34;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>2&lt;span class="p">;&lt;/span> stty -echo&lt;span class="p">;&lt;/span> &lt;span class="nb">read&lt;/span> PASS&lt;span class="p">;&lt;/span> stty echo&lt;span class="p">;&lt;/span> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>&lt;span class="m">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;Please ignore &amp;#34;Cannot do GSSAPI to an IP address&amp;#34; errors...&amp;#39;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>&lt;span class="m">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## Extract zones&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 2 zone(s) found&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszZoneName : a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Flags : DNS_RPC_ZONE_DSINTEGRATED DNS_RPC_ZONE_UPDATE_SECURE&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># ZoneType : DNS_ZONE_TYPE_PRIMARY&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Version : 50&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># dwDpFlags : DNS_DP_AUTOCREATED DNS_DP_DOMAIN_DEFAULT DNS_DP_ENLISTED&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszDpFqdn : DomainDnsZones.a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszZoneName : _msdcs.a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Flags : DNS_RPC_ZONE_DSINTEGRATED DNS_RPC_ZONE_UPDATE_SECURE&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># ZoneType : DNS_ZONE_TYPE_PRIMARY&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Version : 50&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># dwDpFlags : DNS_DP_AUTOCREATED DNS_DP_FOREST_DEFAULT DNS_DP_ENLISTED&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszDpFqdn : ForestDnsZones.a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#$SAMBA_TOOL dns zonelist localhost --kerberos=yes &amp;gt; $TMPFILE&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">ZONES&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="nv">$SAMBA_TOOL&lt;/span> dns zonelist localhost -U &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$USER&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> --password &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$PASS&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> awk &lt;span class="s1">&amp;#39;$1 ~ /pszZoneName/{print $3}&amp;#39;&lt;/span>&lt;span class="sb">`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## queryzone $zone &amp;#34;ForestDnsZones&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">queryzone &lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> &lt;span class="nv">zone&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$1&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> &lt;span class="nv">entry&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$2&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> &lt;span class="nv">qentry&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$entry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> name
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> children
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> lhs
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">test&lt;/span> -z &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$entry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> &lt;span class="nv">qentry&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;@&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">$SAMBA_TOOL&lt;/span> dns query localhost &lt;span class="nv">$zone&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$qentry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> ALL -U &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$USER&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> --password &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$PASS&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=, Records=3, Children=0&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># SOA: serial=1, refresh=900, retry=600, expire=86400, minttl=3600, ns=ad01.a.example.or.jp., email=hostmaster.a.example.or.jp. (flags=600000f0, serial=1, ttl=3600)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># NS: ad01.a.example.or.jp. (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># A: 100.64.96.31 (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=_msdcs, Records=0, Children=0&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=_sites, Records=0, Children=1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=_tcp, Records=0, Children=4&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span> &lt;span class="nb">read&lt;/span> line&lt;span class="p">;&lt;/span> &lt;span class="k">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">set&lt;/span> &lt;span class="nv">$line&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">case&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$1&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> in
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>*,&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sb">`&lt;/span>expr &lt;span class="nv">$1&lt;/span> : &lt;span class="s1">&amp;#39;Name=\([^,]*\)*,&amp;#39;&lt;/span>&lt;span class="sb">`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">children&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sb">`&lt;/span>expr &lt;span class="nv">$3&lt;/span> : &lt;span class="s1">&amp;#39;Children=\([0-9]*\)&amp;#39;&lt;/span>&lt;span class="sb">`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$children&lt;/span> -gt &lt;span class="m">0&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> queryzone &lt;span class="nv">$zone&lt;/span> &lt;span class="nv">$name&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="p">:+.&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="nv">$entry&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> -z &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$name&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> -z &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$entry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">lhs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;@&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">lhs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">lhs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">name&lt;/span>&lt;span class="si">}${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="p">:+.&lt;/span>&lt;span class="si">}${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> SOA:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># SOA: serial=1, refresh=900, retry=600, expire=86400, minttl=3600, ns=ad01.a.example.or.jp., email=hostmaster.a.example.or.jp. (flags=600000f0, serial=1, ttl=3600)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -e &lt;span class="s1">&amp;#39;s/.*serial=\([0-9]*\), refresh=\([0-9]*\), retry=\([0-9]*\), expire=\([0-9]*\), minttl=\([0-9]*\), ns=\([^,]*\), email=\([^,]*\) (flags=.*, serial=[0-9]*, ttl=\([0-9]*\))/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">name&lt;/span>&lt;span class="k">:-&lt;/span>&lt;span class="p">@&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \8 IN SOA \6 \7 \1 \2 \3 \4 \5/&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># NS: ad01.a.example.or.jp. (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># A: 100.64.96.31 (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> NS:&lt;span class="p">|&lt;/span>A:&lt;span class="p">|&lt;/span>AAAA:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -ne &lt;span class="s1">&amp;#39;s/\([^ ]*\): \([^ ]*\) (flags=[0-9a-f]*, serial=[0-9]*, ttl=\([0-9]*\)).*/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">lhs&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \3 IN \1 \2/p&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># SRV: ad01.a.example.or.jp. (88, 0, 100) (flags=f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> SRV:&lt;span class="p">|&lt;/span>MX:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -ne &lt;span class="s1">&amp;#39;s/\([^ ]*\): \([^ ]*\) (\([0-9]*\), \([0-9]*\), \([0-9]*\)) (flags=[0-9a-f]*, serial=[0-9]*, ttl=\([0-9]*\)).*/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">lhs&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \6 IN \1 \4 \5 \3 \2/p&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># CNAME: ad01.a.example.or.jp. (flags=f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> CNAME:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -ne &lt;span class="s1">&amp;#39;s/\([^ ]*\): \([^ ]*\) (flags=[0-9a-f]*, serial=[0-9]*, ttl=\([0-9]*\)).*/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">lhs&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \3 IN \1 \2/p&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;ERROR unknown record type &lt;/span>&lt;span class="nv">$1&lt;/span>&lt;span class="s2">; aborting&amp;#34;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>2&lt;span class="p">;&lt;/span> &lt;span class="nb">exit&lt;/span> &lt;span class="m">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">esac&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">done&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> Zones: &lt;span class="nv">$ZONES&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>&lt;span class="m">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">for&lt;/span> zone in &lt;span class="nv">$ZONES&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;$ORIGIN&amp;#39;&lt;/span> &lt;span class="nv">$zone&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> queryzone &lt;span class="nv">$zone&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">done&lt;/span> &lt;span class="p">;&lt;/span>&lt;span class="c1"># zone $ZONES&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 class="relative group">Schlüssel aus Windows extrahieren
+&lt;div id="schlüssel-aus-windows-extrahieren" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#schl%c3%bcssel-aus-windows-extrahieren" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;pre tabindex="0">&lt;code class="language-vbscript" data-lang="vbscript">Set WshShell = CreateObject(&amp;#34;WScript.Shell&amp;#34;)
+MsgBox ConvertToKey(WshShell.RegRead(&amp;#34;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DigitalProductId&amp;#34;))
+Function ConvertToKey(Key)
+Const KeyOffset = 52
+i = 28
+Chars = &amp;#34;BCDFGHJKMPQRTVWXY2346789&amp;#34;
+Do
+Cur = 0
+x = 14
+Do
+Cur = Cur * 256
+Cur = Key(x + KeyOffset) + Cur
+Key(x + KeyOffset) = (Cur \ 24) And 255
+Cur = Cur Mod 24
+x = x -1
+Loop While x &amp;gt;= 0
+i = i -1
+KeyOutput = Mid(Chars, Cur + 1, 1) &amp;amp; KeyOutput
+If (((29 - i) Mod 6) = 0) And (i &amp;lt;&amp;gt; -1) Then
+i = i -1
+KeyOutput = &amp;#34;-&amp;#34; &amp;amp; KeyOutput
+End If
+Loop While i &amp;gt;= 0
+ConvertToKey = KeyOutput
+End Function
+&lt;/code>&lt;/pre>
+&lt;h3 class="relative group">Festplatten in Proxmox bewegen
+&lt;div id="festplatten-in-proxmox-bewegen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#festplatten-in-proxmox-bewegen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Dieses Script migriert alle Festplatten einer VM auf einen anderen Storage&lt;/p></description></item><item><title>Software</title><link>/posts/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/posts/software/</guid><description>&lt;h2 class="relative group">Softwareliste
+&lt;div id="softwareliste" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#softwareliste" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>Moe
+&lt;ul>
+&lt;li>Proxmox&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Lisa
+&lt;ul>
+&lt;li>Proxmox&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Traefik</title><link>/docs/it-intern/services/traefik/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/traefik/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/_/traefik"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/traefik/traefik"
+target="_blank"
+>Github&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://traefik.io/traefik/"
+target="_blank"
+>Traefiklabs&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Reverse Proxy und Load Balancer für alle HTTP Services und einige andere.&lt;/p></description></item><item><title>Unifi Controller</title><link>/docs/it-intern/services/unifi-controller/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/unifi-controller/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://gitlab.com/Linuxserver.io/docker-unifi-network-application/container_registry"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/linuxserver/docker-unifi-controller/packages"
+target="_blank"
+>Github Container&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://github.com/linuxserver/docker-unifi-network-application"
+target="_blank"
+>Github Container neu&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://help.ui.com/hc/en-us/sections/6582310816535-Network"
+target="_blank"
+>Hersteller&lt;/a>
+&lt;/p></description></item><item><title>Uptime Kuma</title><link>/docs/it-intern/services/uptime-kuma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/uptime-kuma/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/louislam/uptime-kuma"
+target="_blank"
+>Docker Hub&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/louislam/uptime-kuma"
+target="_blank"
+>Github&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/louislam/uptime-kuma/wiki"
+target="_blank"
+>Hersteller&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Funktion
+&lt;div id="funktion" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#funktion" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Internes Monitoring einzelner Dienste und Bereitstellung von Statusseiten.
+Mitarbeiter und Supporter haben dies als erste Anlaufstelle bei Problemen mit
+der IT.&lt;/p></description></item><item><title>Windows autologon</title><link>/docs/it-intern/client/windows_autologon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/client/windows_autologon/</guid><description>&lt;h2 class="relative group">AutoLogon
+&lt;div id="autologon" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#autologon" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Erstelle eine .reg Datei mit folgendem Inhalt und führe sie auf dem Zielrechner
+aus.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-registry" data-lang="registry">&lt;span class="line">&lt;span class="cl">Windows Registry Editor Version 5.00
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">[&lt;/span>&lt;span class="nb">HKEY_LOCAL_MACHINE&lt;/span>&lt;span class="k">\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">&amp;#34;AutoAdminLogon&amp;#34;&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;1&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">&amp;#34;DefaultUserName&amp;#34;&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;BENUTZERNAME&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">&amp;#34;DefaultDomainName&amp;#34;&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;DOMÄNE&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">&amp;#34;DefaultPassword&amp;#34;&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#39;*****&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Wireguard</title><link>/docs/it-intern/services/wireguard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/wireguard/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/ricariel/bastion"
+target="_blank"
+>Docker Hub Bastion&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/linuxserver/wireguard"
+target="_blank"
+>Docker Hub Wireguard&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://hub.docker.com/r/wgportal/wg-portal"
+target="_blank"
+>Docker Hub wg-portal&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/docker-ssh-bastion"
+target="_blank"
+>Bastion&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://github.com/linuxserver/docker-wireguard"
+target="_blank"
+>Github wireguard&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://github.com/h44z/wg-portal"
+target="_blank"
+>Github wg-portal&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://git.zyria.de/pyrox/docker-ssh-bastion"
+target="_blank"
+>Hersteller Bastion&lt;/a>
+&lt;/p></description></item><item><title>WireGuard mit systemd</title><link>/docs/it-intern/client/wireguard_mit_systemd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/client/wireguard_mit_systemd/</guid><description>&lt;p>Für eine WireGuard-Verbindung mit systemd-networkd und systemd-resolved.&lt;/p>
+&lt;p>Alle Konfigurationsdateien gehören in &lt;code>/etc/systemd/network/&lt;/code>.&lt;/p>
+&lt;h2 class="relative group">Interface
+&lt;div id="interface" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#interface" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Das WireGuard-Interface anlegen (muss mit einer Zahl beginnen, z.B. &lt;code>10-wg0.netdev&lt;/code>) (&lt;a
+href="https://www.freedesktop.org/software/systemd/man/latest/systemd.netdev.html"
+target="_blank"
+>Dokumentation&lt;/a>
+)&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-systemd" data-lang="systemd">&lt;span class="line">&lt;span class="cl">&lt;span class="k">[NetDev]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">Name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">wg0&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">Kind&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">wireguard&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">Description&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">WireGuard-Tunnel für Casa Due Pur&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">MTUBytes&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">1320&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">[WireGuard]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">PrivateKey&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c"># Für alle Netze aus AllowedIPs soll automatisch eine Route erzeugt werden, in einer separaten Routing-Tabelle:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">RouteTable&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">123&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c"># Die verschlüsselten WireGuard-Pakete werden markiert:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">FirewallMark&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">123&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c"># Beides erlaubt spezielles Routing, konfiguriert in der *.network-Datei&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">[WireGuardPeer]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">PublicKey&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">IaNBwGqXkxy4iLuowJQuR6h+AdL5Oo9oYtSqub8m6C4=&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">PresharedKey&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">AllowedIPs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">fd42:167:84::1/64, 2a01:4f8:1c1c:1e5b::/64, 2a01:4f8:fff0:22::/64, 2a01:4f8:242:27a5::/64, 2a01:4f8:242:27a3::/64, 2003:a:241:4400::/56, 2003:a:27f:c144::/64, 159.69.238.80/28, 159.69.10.123/32, 87.140.122.88/32, 168.119.65.89/32, 168.119.65.91/32, 10.26.15.0/24, 192.168.2.0/24&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">Endpoint &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s"> vpn.casa-due-pur.de:51194&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="na">PersistentKeepalive&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">16&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>PrivateKey=&lt;/code> und &lt;code>PresharedKey=&lt;/code> entsprechend ausfüllen, den Rest sicherheitshalber nochmal abgleichen. Die Datei sollte für unprivilegierte Nutzer nicht lesbar sein, d.h. &lt;code>chown root:systemd-network ...&lt;/code>, &lt;code>chmod 640 ...&lt;/code>.&lt;/p></description></item><item><title>Zammad</title><link>/docs/it-intern/services/zammad/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/zammad/</guid><description>&lt;h2 class="relative group">Quelle
+&lt;div id="quelle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quelle" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h2 class="relative group">Repository
+&lt;div id="repository" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#repository" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://github.com/zammad"
+target="_blank"
+>Zammad&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://github.com/zammad/zammad-helm"
+target="_blank"
+>Helm&lt;/a>
+&lt;/p>
+&lt;h2 class="relative group">Dokumentation
+&lt;div id="dokumentation" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dokumentation" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a
+href="https://admin-docs.zammad.org/de/latest/index.html"
+target="_blank"
+>Admin Dokumentation&lt;/a>
+&lt;/p>
+&lt;p>&lt;a
+href="https://docs.zammad.org/en/latest/index.html"
+target="_blank"
+>Zentrale Dokumentation&lt;/a>
+&lt;/p></description></item><item><title>Zugriffsrechte auf Mailboxen</title><link>/docs/it-intern/services/mailstack/sharedfolders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/services/mailstack/sharedfolders/</guid><description>&lt;p>Wer hat eigentlich auf welche Mailbox Zugriff?&lt;/p>
+&lt;p>Nutzer können Ihr Mailboxen beliebig mit anderen Nutzern teilen. Die IT hat
+einige Freigaben bereits eingerichtet. Mit folgendem Befehlen lassen sich diese
+setzen:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

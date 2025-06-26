@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sammelbecken on Zyria</title><link>/docs/it-intern/sammelbecken/</link><description>Recent content in Sammelbecken on Zyria</description><generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>fabrice@zyria.de (Fabrice Kirchner)</managingEditor><webMaster>fabrice@zyria.de (Fabrice Kirchner)</webMaster><copyright>&amp;copy; 2003 - 2025 Fabrice Kirchner</copyright><lastBuildDate>Thu, 19 Oct 2023 13:28:04 +0200</lastBuildDate><atom:link href="/docs/it-intern/sammelbecken/index.xml" rel="self" type="application/rss+xml"/><item><title>Hetzner Server</title><link>/docs/it-intern/sammelbecken/hetzner/</link><pubDate>Thu, 19 Oct 2023 13:28:04 +0200</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/sammelbecken/hetzner/</guid><description>&lt;h2 class="relative group">Server bei Hetzner
+&lt;div id="server-bei-hetzner" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#server-bei-hetzner" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Hardware
+&lt;div id="hardware" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#hardware" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Aktuell sind alle Server bei Hetzner &lt;a
+href="https://www.hetzner.com/de/dedicated-rootserver/ax101"
+target="_blank"
+>AX101&lt;/a>
+Server.
+Die Server sind Ipv6 only bestellt und beziehen eine IPv4 aus einem &lt;a
+href="https://docs.hetzner.com/de/robot/dedicated-server/network/vswitch/"
+target="_blank"
+>Hetzner vSwitch&lt;/a>
+.&lt;/p></description></item><item><title>Snippets</title><link>/docs/it-intern/sammelbecken/snippets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>fabrice@zyria.de (Fabrice Kirchner)</author><guid>/docs/it-intern/sammelbecken/snippets/</guid><description>&lt;h2 class="relative group">Snippets
+&lt;div id="snippets" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#snippets" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Leeren branch in git erstellen
+&lt;div id="leeren-branch-in-git-erstellen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#leeren-branch-in-git-erstellen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git switch --orphan pages
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit --allow-empty -m &lt;span class="s2">&amp;#34;Initial commit on orphan branch&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push -u origin pages
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 class="relative group">Zone aus Samba extrahieren
+&lt;div id="zone-aus-samba-extrahieren" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#zone-aus-samba-extrahieren" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#!/bin/sh
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Extract DNS zone from Samba4 native DNS using samba-tool&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Prerequistes:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># samba krb5-workstation&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">SAMBA_TOOL&lt;/span>&lt;span class="o">=&lt;/span>samba-tool
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#kinit Administrator&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#trap &amp;#34;kdestroy; rm -f $TMPFILE&amp;#34; 0 1 2 15&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#klist&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## -k=yes doesn&amp;#39;t work...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## Using --password isn&amp;#39;t secure.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">USER&lt;/span>&lt;span class="o">=&lt;/span>Administrator
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> -n &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$USER&lt;/span>&lt;span class="s2"> password:&amp;#34;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>2&lt;span class="p">;&lt;/span> stty -echo&lt;span class="p">;&lt;/span> &lt;span class="nb">read&lt;/span> PASS&lt;span class="p">;&lt;/span> stty echo&lt;span class="p">;&lt;/span> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>&lt;span class="m">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;Please ignore &amp;#34;Cannot do GSSAPI to an IP address&amp;#34; errors...&amp;#39;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>&lt;span class="m">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## Extract zones&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 2 zone(s) found&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszZoneName : a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Flags : DNS_RPC_ZONE_DSINTEGRATED DNS_RPC_ZONE_UPDATE_SECURE&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># ZoneType : DNS_ZONE_TYPE_PRIMARY&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Version : 50&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># dwDpFlags : DNS_DP_AUTOCREATED DNS_DP_DOMAIN_DEFAULT DNS_DP_ENLISTED&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszDpFqdn : DomainDnsZones.a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszZoneName : _msdcs.a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Flags : DNS_RPC_ZONE_DSINTEGRATED DNS_RPC_ZONE_UPDATE_SECURE&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># ZoneType : DNS_ZONE_TYPE_PRIMARY&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Version : 50&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># dwDpFlags : DNS_DP_AUTOCREATED DNS_DP_FOREST_DEFAULT DNS_DP_ENLISTED&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># pszDpFqdn : ForestDnsZones.a.example.or.jp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">#$SAMBA_TOOL dns zonelist localhost --kerberos=yes &amp;gt; $TMPFILE&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">ZONES&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sb">`&lt;/span>&lt;span class="nv">$SAMBA_TOOL&lt;/span> dns zonelist localhost -U &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$USER&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> --password &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$PASS&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> awk &lt;span class="s1">&amp;#39;$1 ~ /pszZoneName/{print $3}&amp;#39;&lt;/span>&lt;span class="sb">`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">## queryzone $zone &amp;#34;ForestDnsZones&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">queryzone &lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> &lt;span class="nv">zone&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$1&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> &lt;span class="nv">entry&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$2&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> &lt;span class="nv">qentry&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$entry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> name
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> children
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">local&lt;/span> lhs
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">test&lt;/span> -z &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$entry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> &lt;span class="nv">qentry&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;@&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">$SAMBA_TOOL&lt;/span> dns query localhost &lt;span class="nv">$zone&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$qentry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> ALL -U &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$USER&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> --password &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$PASS&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=, Records=3, Children=0&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># SOA: serial=1, refresh=900, retry=600, expire=86400, minttl=3600, ns=ad01.a.example.or.jp., email=hostmaster.a.example.or.jp. (flags=600000f0, serial=1, ttl=3600)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># NS: ad01.a.example.or.jp. (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># A: 100.64.96.31 (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=_msdcs, Records=0, Children=0&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=_sites, Records=0, Children=1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Name=_tcp, Records=0, Children=4&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">while&lt;/span> &lt;span class="nb">read&lt;/span> line&lt;span class="p">;&lt;/span> &lt;span class="k">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">set&lt;/span> &lt;span class="nv">$line&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">case&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$1&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> in
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">Name&lt;/span>&lt;span class="o">=&lt;/span>*,&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sb">`&lt;/span>expr &lt;span class="nv">$1&lt;/span> : &lt;span class="s1">&amp;#39;Name=\([^,]*\)*,&amp;#39;&lt;/span>&lt;span class="sb">`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">children&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sb">`&lt;/span>expr &lt;span class="nv">$3&lt;/span> : &lt;span class="s1">&amp;#39;Children=\([0-9]*\)&amp;#39;&lt;/span>&lt;span class="sb">`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> &lt;span class="nv">$children&lt;/span> -gt &lt;span class="m">0&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> queryzone &lt;span class="nv">$zone&lt;/span> &lt;span class="nv">$name&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="p">:+.&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="nv">$entry&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> -z &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$name&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> -z &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$entry&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">lhs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;@&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">lhs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">lhs&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">name&lt;/span>&lt;span class="si">}${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="p">:+.&lt;/span>&lt;span class="si">}${&lt;/span>&lt;span class="nv">entry&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> SOA:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># SOA: serial=1, refresh=900, retry=600, expire=86400, minttl=3600, ns=ad01.a.example.or.jp., email=hostmaster.a.example.or.jp. (flags=600000f0, serial=1, ttl=3600)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -e &lt;span class="s1">&amp;#39;s/.*serial=\([0-9]*\), refresh=\([0-9]*\), retry=\([0-9]*\), expire=\([0-9]*\), minttl=\([0-9]*\), ns=\([^,]*\), email=\([^,]*\) (flags=.*, serial=[0-9]*, ttl=\([0-9]*\))/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">name&lt;/span>&lt;span class="k">:-&lt;/span>&lt;span class="p">@&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \8 IN SOA \6 \7 \1 \2 \3 \4 \5/&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># NS: ad01.a.example.or.jp. (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># A: 100.64.96.31 (flags=600000f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> NS:&lt;span class="p">|&lt;/span>A:&lt;span class="p">|&lt;/span>AAAA:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -ne &lt;span class="s1">&amp;#39;s/\([^ ]*\): \([^ ]*\) (flags=[0-9a-f]*, serial=[0-9]*, ttl=\([0-9]*\)).*/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">lhs&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \3 IN \1 \2/p&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># SRV: ad01.a.example.or.jp. (88, 0, 100) (flags=f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> SRV:&lt;span class="p">|&lt;/span>MX:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -ne &lt;span class="s1">&amp;#39;s/\([^ ]*\): \([^ ]*\) (\([0-9]*\), \([0-9]*\), \([0-9]*\)) (flags=[0-9a-f]*, serial=[0-9]*, ttl=\([0-9]*\)).*/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">lhs&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \6 IN \1 \4 \5 \3 \2/p&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># CNAME: ad01.a.example.or.jp. (flags=f0, serial=1, ttl=900)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> CNAME:&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$@&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="p">|&lt;/span> sed -ne &lt;span class="s1">&amp;#39;s/\([^ ]*\): \([^ ]*\) (flags=[0-9a-f]*, serial=[0-9]*, ttl=\([0-9]*\)).*/&amp;#39;&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">${&lt;/span>&lt;span class="nv">lhs&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="s1">&amp;#39; \3 IN \1 \2/p&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *&lt;span class="o">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s2">&amp;#34;ERROR unknown record type &lt;/span>&lt;span class="nv">$1&lt;/span>&lt;span class="s2">; aborting&amp;#34;&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>2&lt;span class="p">;&lt;/span> &lt;span class="nb">exit&lt;/span> &lt;span class="m">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">;;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">esac&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">done&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> Zones: &lt;span class="nv">$ZONES&lt;/span> &amp;gt;&lt;span class="p">&amp;amp;&lt;/span>&lt;span class="m">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">for&lt;/span> zone in &lt;span class="nv">$ZONES&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;$ORIGIN&amp;#39;&lt;/span> &lt;span class="nv">$zone&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> queryzone &lt;span class="nv">$zone&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">done&lt;/span> &lt;span class="p">;&lt;/span>&lt;span class="c1"># zone $ZONES&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 class="relative group">Schlüssel aus Windows extrahieren
+&lt;div id="schlüssel-aus-windows-extrahieren" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#schl%c3%bcssel-aus-windows-extrahieren" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;pre tabindex="0">&lt;code class="language-vbscript" data-lang="vbscript">Set WshShell = CreateObject(&amp;#34;WScript.Shell&amp;#34;)
+MsgBox ConvertToKey(WshShell.RegRead(&amp;#34;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DigitalProductId&amp;#34;))
+Function ConvertToKey(Key)
+Const KeyOffset = 52
+i = 28
+Chars = &amp;#34;BCDFGHJKMPQRTVWXY2346789&amp;#34;
+Do
+Cur = 0
+x = 14
+Do
+Cur = Cur * 256
+Cur = Key(x + KeyOffset) + Cur
+Key(x + KeyOffset) = (Cur \ 24) And 255
+Cur = Cur Mod 24
+x = x -1
+Loop While x &amp;gt;= 0
+i = i -1
+KeyOutput = Mid(Chars, Cur + 1, 1) &amp;amp; KeyOutput
+If (((29 - i) Mod 6) = 0) And (i &amp;lt;&amp;gt; -1) Then
+i = i -1
+KeyOutput = &amp;#34;-&amp;#34; &amp;amp; KeyOutput
+End If
+Loop While i &amp;gt;= 0
+ConvertToKey = KeyOutput
+End Function
+&lt;/code>&lt;/pre>
+&lt;h3 class="relative group">Festplatten in Proxmox bewegen
+&lt;div id="festplatten-in-proxmox-bewegen" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#festplatten-in-proxmox-bewegen" aria-label="Anker">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Dieses Script migriert alle Festplatten einer VM auf einen anderen Storage&lt;/p></description></item></channel></rss>
